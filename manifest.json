@@ -1,0 +1,10 @@
+{
+  "id": "last-note",
+  "name": "Last Note",
+  "version": "0.0.0",
+  "minAppVersion": "1.8.0",
+  "description": "TODO.",
+  "author": "Steven Stallion",
+  "authorUrl": "https://github.com/sstallion",
+  "isDesktopOnly": false
+}
