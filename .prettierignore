@@ -1,0 +1,5 @@
+*.*
+!*.json
+!*.mjs
+!*.ts
+package-lock.json
